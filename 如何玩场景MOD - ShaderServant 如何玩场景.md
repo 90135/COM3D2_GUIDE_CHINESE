@@ -1,4 +1,4 @@
-# 如何玩场景 MOD - SS 如何玩场景
+# 如何玩场景 MOD - ShaderServant 如何玩场景
 
 一直以来都以为 NPRShader.Plugin 才能玩场景？  
 
