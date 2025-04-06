@@ -156,3 +156,17 @@ SceneCapture 无法恢复默认，所以你需要保存一个默认状态下的�
 <br>
 
 注：日本人说的 SS 一般是是指截图
+
+
+## 其他
+
+znq19 哥编写的教程：
+
+注：ZOD 论坛，需要登录，无账号也可直接查看下面的百度盘，目前开放注册注册邀请码可以随便填写
+
+ - [[教程] [250316]想让女仆跳更多舞蹈的不要错过※超简单的DCM跳舞插件使用教程（DanceCameraMotion教程和指路）](https://zodgame.xyz/forum.php?mod=viewthread&tid=480009&extra=page%3D1%26filter%3Dtypeid%26typeid%3D500)
+ - [[教程] 移植制作DCM舞蹈教程指路（DanceCameraMotion插件舞蹈移植）](https://zodgame.xyz/forum.php?mod=viewthread&tid=480092&extra=page%3D1%26filter%3Dtypeid%26typeid%3D500)
+ - [[教程] DCM舞蹈插件简单快速制作歌词的教程（DanceCameraMotion歌词教程和参数）](https://zodgame.xyz/forum.php?mod=viewthread&tid=480013)
+ - 超简单的DCM跳舞插件使用教程：https://pan.baidu.com/s/1vOmbX_ntow7lZTCLH4MuoA?pwd=ka1g 提取码: ka1g
+ - DCM舞蹈插件简单快速制作歌词的教程：https://pan.baidu.com/s/1LvY7u1NowIzClFtRAAyqfA?pwd=2m2x 提取码: 2m2x
+
