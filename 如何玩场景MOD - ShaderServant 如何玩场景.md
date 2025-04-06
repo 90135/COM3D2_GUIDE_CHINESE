@@ -124,7 +124,9 @@ mod 文件里面有 .asset_bg 的即为此种
 
 待续
 
-## 注意
+## 注意事项
+
+### 不要用 SceneCapture 召唤场景
 
 SceneCapture 召唤出来的场景 ShaderServant 无法对其生效，不建议使用。
 
@@ -135,7 +137,7 @@ SceneCapture 召唤出来的场景 ShaderServant 无法对其生效，不建议�
 ![image](https://github.com/user-attachments/assets/d25a737f-9613-4984-a617-d5550b0261fc)
 
 
-<br>
+### SceneCapture 插件不生效，一直报错
 
 如果你的 SceneCapture 插件一直报错，而且调整没有任何效果，大概率是配置文件有问题，请从 CMI 重新获取一份
 
@@ -149,14 +151,13 @@ SceneCapture 召唤出来的场景 ShaderServant 无法对其生效，不建议�
 
 感谢 znq19 哥大发现，不然还以为 SS 不能用 SC。
 
-<br>
+### SceneCapture 插件不生效，一直报错
 
 SceneCapture 无法恢复默认，所以你需要保存一个默认状态下的预设，然后加载该预设返回默认状态
 
-<br>
+### 日语
 
-注：日本人说的 SS 一般是是指截图
-
+注：日本人说的 SS 一般是是指截图，不是 ShaderServant 插件
 
 ## 其他
 
