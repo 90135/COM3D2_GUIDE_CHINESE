@@ -4,6 +4,12 @@
 
 其实 ShaderServant 也可以！
 
+<br>
+
+下了一堆场景和小物件不知道怎么用？
+
+就在这里！
+
 ## 依赖插件
 
 #### 注：本教程不使用 COM3D2.NPRShader.Plugin 而是使用 ShaderServant
