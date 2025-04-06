@@ -145,4 +145,8 @@ SceneCapture 召唤出来的场景 ShaderServant 无法对其生效，不建议�
 
 <br>
 
+SceneCapture 无法恢复默认，所以你需要保存一个默认状态下的预设，然后加载该预设返回默认状态
+
+<br>
+
 注：日本人说的 SS 一般是是指截图
