@@ -10,6 +10,10 @@
 
 就在这里！
 
+<br>
+
+本文动作确认版本 COM3D2 2.43.1
+
 ## 依赖插件
 
 #### 注：本教程不使用 COM3D2.NPRShader.Plugin 而是使用 ShaderServant
@@ -141,17 +145,17 @@ SceneCapture 召唤出来的场景 ShaderServant 无法对其生效，不建议�
 
 如果你的 SceneCapture 插件一直报错，而且调整没有任何效果，大概率是配置文件有问题，请从 CMI 重新获取一份
 
-截至目前 CMI 版本为 2.6.4.1
+截至目前 CMI 版本为 2.6.4.1，SceneCapture 不再更新，如果以后的版本没有了，可以回来找。
 
 下载 CMI，新建一个空目录，CMI 内勾选 COM3D2.SceneCapture.Plugin
 
-安装后把 `CMI2.6.4.1\Sybaris\UnityInjector\COM3D2.SceneCapture.Plugin.dll` 放到 `COM3D2\Sybaris\UnityInjector\COM3D2.SceneCapture.Plugin.dll"`
+安装后把 `CMI2.6.4.1\Sybaris\UnityInjector\COM3D2.SceneCapture.Plugin.dll` 放到 `COM3D2\Sybaris\UnityInjector\"` 文件夹
 
-把 `"X:\HG\maid\COM3D2\Sybaris\UnityInjector\Config\SceneCapture"` 文件夹覆盖到 `COM3D2\Sybaris\UnityInjector\Config\SceneCapture`
+把 `CMI2.6.4.1\Sybaris\UnityInjector\Config\SceneCapture"` 文件夹覆盖到 `COM3D2\Sybaris\UnityInjector\Config\SceneCapture`
 
 感谢 znq19 哥大发现，不然还以为 SS 不能用 SC。
 
-### SceneCapture 插件不生效，一直报错
+### SceneCapture 无法恢复默认
 
 SceneCapture 无法恢复默认，所以你需要保存一个默认状态下的预设，然后加载该预设返回默认状态
 
