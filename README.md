@@ -19,8 +19,8 @@
 
 ## 目录
 
- - [附录，有很多知识哟](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu)
- - [第 1 课，MOD 的组成和使用 AlwaysColorChangeEx 插件制作简易换色](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/di-1-ke-mod-de-zu-cheng-he-shi-yong-accex-cha-jian-zhi-zuo-jian-yi-huan-se)
+ - [好看的腿参数](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/com3d2_guide/hao-kan-de-tui-can-shu)
+ - [如何玩场景 MOD - ShaderServant 如何玩场景](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/com3d2_guide/ru-he-wan-chang-jing-mod-shaderservant-ru-he-wan-chang-jing)
 
 
 
