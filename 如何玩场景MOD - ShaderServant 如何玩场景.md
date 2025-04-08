@@ -124,6 +124,10 @@ DCM 的这个功能非常强大，如果你懂你点 MOD，你可能知道 MOD �
 
 ![图片](https://github.com/user-attachments/assets/fd472317-fff5-45fc-99db-97e14e9da22c)
 
+当然，你也可以手动增删预设而不需要打开游戏，预设在 `"X:\HG\maid\COM3D2\Sybaris\UnityInjector\Config\DanceCameraMotion\StageModel.xml"`
+
+相信你看一下就知道怎么编写了。
+
 ### asset_bg 格式
 
 mod 文件里面有 .asset_bg 的即为此种
