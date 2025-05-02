@@ -2,7 +2,7 @@
 
 <br>
 
-NVIDIA 对 Resizable BAR 的开启是白名单限制，但是我们可以手动启用
+NVIDIA 对 Resizable BAR 的开启是白名单限制，COM3D2 当然不在白名单内，但是我们可以手动启用
 
 注意：每次驱动更新后似乎都会被覆盖掉，需要重新设置。
 
