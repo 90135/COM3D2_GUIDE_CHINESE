@@ -10,6 +10,28 @@ NVIDIA 对 Resizable BAR 的开启是白名单限制，但是我们可以手动�
 
 <br>
 
+## 什么是 Resizable BAR
+
+Resizable BAR（Base Address Register）是一项提升计算机性能的技术，尤其在游戏和图形处理中效果显著。以下是对该技术的详细介绍：
+
+核心原理
+传统限制：PCIe 设备（如显卡）通过基地址寄存器（BAR）将显存映射到系统内存，传统BAR通常限制为 256MB。CPU 需多次访问显存时，频繁的小块数据传输导致效率低下。
+
+技术改进：Resizable BAR 允许动态调整 BAR 的大小，扩展至整个显存容量（如 8GB 或更高）。CPU 可直接访问更多显存数据，减少通信次数，提升数据传输效率。
+
+支持条件
+需硬件、固件及驱动的多方配合：
+
+显卡：NVIDIA RTX 30 系列及更新型号、AMD RX 6000 系列及以上（AMD 称其为 Smart Access Memory）。
+
+CPU：AMD Ryzen 5000 系列或 Intel 第 10 代（Comet Lake）及更新处理器。
+
+主板：需支持PCIe规范并更新至兼容UEFI固件（如 AMD 500系列、Intel Z490 及以上主板）。
+
+驱动与系统：最新显卡驱动（如NVIDIA 465.89+、AMD Adrenalin 21.3.1+）及操作系统（Windows 10 20H2 或更新）。
+
+<br>
+
 ## 步骤
 
 
@@ -30,22 +52,3 @@ NVIDIA 对 Resizable BAR 的开启是白名单限制，但是我们可以手动�
 
 <br>
 
-## 什么是 Resizable BAR
-
-Resizable BAR（Base Address Register）是一项提升计算机性能的技术，尤其在游戏和图形处理中效果显著。以下是对该技术的详细介绍：
-
-核心原理
-传统限制：PCIe 设备（如显卡）通过基地址寄存器（BAR）将显存映射到系统内存，传统BAR通常限制为 256MB。CPU 需多次访问显存时，频繁的小块数据传输导致效率低下。
-
-技术改进：Resizable BAR 允许动态调整 BAR 的大小，扩展至整个显存容量（如 8GB 或更高）。CPU 可直接访问更多显存数据，减少通信次数，提升数据传输效率。
-
-支持条件
-需硬件、固件及驱动的多方配合：
-
-显卡：NVIDIA RTX 30 系列及更新型号、AMD RX 6000 系列及以上（AMD 称其为 Smart Access Memory）。
-
-CPU：AMD Ryzen 5000 系列或 Intel 第 10 代（Comet Lake）及更新处理器。
-
-主板：需支持PCIe规范并更新至兼容UEFI固件（如 AMD 500系列、Intel Z490 及以上主板）。
-
-驱动与系统：最新显卡驱动（如NVIDIA 465.89+、AMD Adrenalin 21.3.1+）及操作系统（Windows 10 20H2 或更新）。
