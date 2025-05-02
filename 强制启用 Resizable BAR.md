@@ -30,9 +30,9 @@ CPU：AMD Ryzen 5000 系列或 Intel 第 10 代（Comet Lake）及更新处理�
 
 主板：需支持 PCIe 规范并更新至兼容 UEFI 固件（如 AMD 500系列、Intel Z490 及以上主板）。
 
-驱动与系统：最新显卡驱动（如NVIDIA 465.89+、AMD Adrenalin 21.3.1+）及操作系统（Windows 10 20H2 或更新）。
+驱动与系统：最新显卡驱动（如 NVIDIA 465.89+、AMD Adrenalin 21.3.1+）及操作系统（Windows 10 20H2 或更新）。
 
-需要在 BIOS 内启用此功能，请自行搜索。
+**需要在 BIOS 内启用此功能，请自行搜索。**
 
 <br>
 
