@@ -44,7 +44,8 @@ CPU：AMD Ryzen 5000 系列或 Intel 第 10 代（Comet Lake）及更新处理�
 
 2. 下载 nvidia Profile Inspector：[https://github.com/Orbmu2k/nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector)
 
-3. 在 nvidia Profile Inspector 的 Profiles 框内输入 COM3D2x64.exe 按回车，如果这里自动显示你的游戏路径，那就对了，如果没有你就把 COM3D2x64.exe 拖进去新建一个配置文件。
+3. 在 nvidia Profile Inspector 的 Profiles 框内输入 COM3D2x64.exe 按回车，如果这里自动显示你的游戏路径，那就对了。
+  - 如果没有，可以把 COM3D2x64.exe 拖进 nvidia Profile Inspector，会提示你要不要新建一个配置文件。
   - ![图片](https://github.com/user-attachments/assets/65180378-da77-4830-bfe3-edcdc77878d5)
 
 4. 找到下面的的选项，改成启用
