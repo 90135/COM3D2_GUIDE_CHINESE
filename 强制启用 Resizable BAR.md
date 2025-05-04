@@ -59,3 +59,10 @@ CPU：AMD Ryzen 5000 系列或 Intel 第 10 代（Comet Lake）及更新处理�
 
 <br>
 
+其他选项有什么用：
+- https://www.reddit.com/r/nvidia/comments/1ikqq6l/comment/mbpgl7e/
+- https://www.reddit.com/r/nvidia/comments/1j9s6pt/what_is_rbar_intel_cpu_exclusion_in_nvidia/
+
+
+<br>
+
