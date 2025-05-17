@@ -22,7 +22,7 @@
 
 如果你使用 CMI（目前版本 2.6.4.1），那么你只需要安装 DanceCameraMotion 和 PartEdit 和插件汉化，推荐为 ShaderServant 补充着色器：[教程](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/shaderservant-he-materialeditor-de-an-zhuang)
 
-1. [COM3D2.DanceCameraMotion.Plugin](https://uu.getuploader.com/com3d2_mod_kyouyu_g/download/225) 无论做什么，都离不开 DCM，注意作者有时候会发更新包，里面缺文件，需要从基础包打
+1. [COM3D2.DanceCameraMotion.Plugin](https://uu.getuploader.com/com3d2_mod_kyouyu_g/download/241) 无论做什么，都离不开 DCM，注意作者有时候会发更新包，里面缺文件，需要从基础包打
 2. [COM3D2.ShaderServant.Plugin](https://github.com/krypto5863/COM3D2.ShaderServant) 使用高级材质需要使用 SS [安装教程](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/shaderservant-he-materialeditor-de-an-zhuang)
 3. [COM3D2.SceneCapture.Plugin](https://ux.getuploader.com/sixima3d2/) 用于调整滤镜效果，原作者已停止分发，需要从 CMI 获取：[https://github.com/krypto5863/COM-Modular-Installer](https://github.com/krypto5863/COM-Modular-Installer)
 4. 可选：插件汉化：[https://github.com/90135/COM3D2_Plugin_Translate_Chinese](https://github.com/90135/COM3D2_Plugin_Translate_Chinese)
