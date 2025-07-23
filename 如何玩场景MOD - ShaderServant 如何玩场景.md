@@ -34,7 +34,7 @@
 
 场景 MOD 是一种需要配合插件才能够玩的东西，有一点点门槛
 
-### model 格式
+## model 格式
 
 mod 里面有 .model 文件的即为此种
 
@@ -133,7 +133,7 @@ DCM 的这个功能非常强大，如果你懂你点 MOD，你可能知道 MOD �
 
 相信你看一下就知道怎么编写了。
 
-### asset_bg 格式
+## asset_bg 格式
 
 下到的 MOD 文件里面有 .asset_bg 文件的即为此种格式。
 
@@ -149,6 +149,8 @@ SceneCapture 插件 和 [MeidoPhotoStudio ](https://github.com/habeebweeb/MeidoP
 
 只要文件位于 PhotoBG_NEI 文件夹内就能自动追加到官方摄影背景列表，具体 PhotoBG_NEI 文件夹在哪，有多少个不重要。
 
+<br>
+
 比如 一个街头 MOD 、一个泳池 MOD
 
 我可以分别放置到 
@@ -162,13 +164,24 @@ SceneCapture 插件 和 [MeidoPhotoStudio ](https://github.com/habeebweeb/MeidoP
 
 正常放置后就可以在官方摄影模式的背景列表里面看见了：
 
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/d8154a79-62dc-4c4b-b06f-9e567810027e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d8154a79-62dc-4c4b-b06f-9e567810027e" />
 
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/ec788bc9-a93a-49d8-bd3a-d1333977bd3c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec788bc9-a93a-49d8-bd3a-d1333977bd3c" />
+
+<br>
+
+asset_bg 的本质是一个 Unity assetBundel
+
+所以可以导入任何东西，对于一些小物件，可以放置到 PhotoBG_OBJ_NEI 文件夹内，和上面一样，具体 PhotoBG_NEI 文件夹在哪，有多少个不重要。
+
+放进 PhotoBG_OBJ_NEI 的 .asset_bg 会被追加到这里
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc6b5d13-9569-49ea-9382-57d3217a0d83" />
 
 
-
-
+<br>
+<br>
+<br>
 
 ## 注意事项
 
