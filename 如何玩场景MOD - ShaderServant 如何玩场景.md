@@ -135,9 +135,40 @@ DCM 的这个功能非常强大，如果你懂你点 MOD，你可能知道 MOD �
 
 ### asset_bg 格式
 
-mod 文件里面有 .asset_bg 的即为此种
+下到的 MOD 文件里面有 .asset_bg 文件的即为此种格式。
 
-待续
+首先确保你已安装 MaidLoader：[https://github.com/Pain-Brioche/COM3D2.MaidLoader](https://github.com/Pain-Brioche/COM3D2.MaidLoader)
+
+文件夹搜索 COM3D2.MaidLoader.dll 有就是装了。
+
+<br>
+
+SceneCapture 插件 和 [MeidoPhotoStudio ](https://github.com/habeebweeb/MeidoPhotoStudio) 插件都支持此格式。
+
+如果使用官方摄影功能，需要把 .asset_bg 文件 放置到 MOD 文件夹内的 PhotoBG_NEI 文件夹内。
+
+只要文件位于 PhotoBG_NEI 文件夹内就能自动追加到官方摄影背景列表，具体 PhotoBG_NEI 文件夹在哪，有多少个不重要。
+
+比如 一个街头 MOD 、一个泳池 MOD
+
+我可以分别放置到 
+
+- COM3D2\MOD\泳池\PhotoBG_NEI\pool.asset_bg
+- COM3D2\MOD\街头\PhotoBG_NEI\street.asset_bg
+
+都可以正常被加载
+
+注意 asset_bg 格式的 MOD 不支持刷新，安装或修改都需要重启游戏。
+
+正常放置后就可以在官方摄影模式的背景列表里面看见了：
+
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/d8154a79-62dc-4c4b-b06f-9e567810027e" />
+
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/ec788bc9-a93a-49d8-bd3a-d1333977bd3c" />
+
+
+
+
 
 ## 注意事项
 
