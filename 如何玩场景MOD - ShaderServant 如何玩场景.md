@@ -145,7 +145,9 @@ DCM 的这个功能非常强大，如果你懂你点 MOD，你可能知道 MOD �
 
 SceneCapture 插件 和 [MeidoPhotoStudio ](https://github.com/habeebweeb/MeidoPhotoStudio) 插件都支持此格式。
 
-如果使用官方摄影功能，需要把 .asset_bg 文件 放置到 MOD 文件夹内的 PhotoBG_NEI 文件夹内。
+<br>
+
+如果使用官方摄影功能，需要把 .asset_bg 文件放置到 MOD 文件夹内的 PhotoBG_NEI 文件夹内。
 
 只要文件位于 PhotoBG_NEI 文件夹内就能自动追加到官方摄影背景列表，具体 PhotoBG_NEI 文件夹在哪，有多少个不重要。
 
@@ -169,6 +171,8 @@ SceneCapture 插件 和 [MeidoPhotoStudio ](https://github.com/habeebweeb/MeidoP
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec788bc9-a93a-49d8-bd3a-d1333977bd3c" />
 
 <br>
+<br>
+<br>
 
 asset_bg 的本质是一个 Unity assetBundel
 
@@ -178,7 +182,46 @@ asset_bg 的本质是一个 Unity assetBundel
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc6b5d13-9569-49ea-9382-57d3217a0d83" />
 
+<br>
+<br>
+<br>
 
+例如，这个超级背景包，里面的 Random_BG_pack_A_(v2.00).zip 内的文件都是 .asset_bg 格式的
+
+[https://mega.nz/folder/DUEQkZaZ#edxzSEn1WoTJSMhT3-IwBA](https://mega.nz/folder/DUEQkZaZ#edxzSEn1WoTJSMhT3-IwBA)
+
+来源：[https://discord.com/channels/297072643797155840/426725636367974410/1286372768207605855](https://discord.com/channels/297072643797155840/426725636367974410/1286372768207605855)
+
+<br>
+
+打开文件夹可以看到有这些东西，先把它放进你的 MOD 文件夹
+
+<img width="1776" height="882" alt="image" src="https://github.com/user-attachments/assets/eb0bc638-5356-4499-ac84-f1c27367885d" />
+
+有的作者会附带一个 .nei 文件，这个文件是定义好的场景列表，把这个带 .nei 的文件夹放进 PhotoBG_NEI 文件夹即可。
+
+如果你不想用作者提供的列表也可以，一样的把带 .asset_bg 的文件夹放进 PhotoBG_NEI 文件夹即可。
+
+<br>
+
+前面说过，具体 PhotoBG_NEI 文件夹在哪，有多少个不重要
+
+所以我们只需要在解压出来的文件夹内新建一个 PhotoBG_NEI 文件夹，然后把带 .asset_bg 或 .nei 的格式放进去
+
+我这里把带 .nei 的文件夹放进去了，内部嵌套文件夹也没关系的。
+
+<img width="1710" height="432" alt="image" src="https://github.com/user-attachments/assets/1abd256a-2910-4206-b63e-503d33177667" />
+
+<img width="1920" height="822" alt="image" src="https://github.com/user-attachments/assets/4f586ff9-cf78-4e33-a468-0b72d49a02f1" />
+
+
+使用作者提供 .nei 的情况下，背景显示在哪个类别里面是由 .nei 决定的，可以看到被追加到了 一般 文件夹里面。
+
+<img width="2548" height="1428" alt="image" src="https://github.com/user-attachments/assets/33c1bf1a-8583-4733-a8bc-e6c6f9e6d786" />
+
+
+<br>
+<br>
 <br>
 <br>
 <br>
