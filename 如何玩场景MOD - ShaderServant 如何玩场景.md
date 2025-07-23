@@ -245,7 +245,8 @@ asset_bg 的本质是一个 Unity assetBundel
 
 点击信息输出后控制台会有当前背景的名字，不过一般就是文件名。
 
-<img width="1064" height="174" alt="image" src="https://github.com/user-attachments/assets/87979a79-68c3-4e28-b781-f722eb0510e4" />
+<img width="734" height="612" alt="dfa91ec3-9bcd-4bea-bf92-b6864f92bf4f" src="https://github.com/user-attachments/assets/e2be94b4-b060-4041-8657-75b823845220" />
+
 
 <img width="1064" height="174" alt="image" src="https://github.com/user-attachments/assets/4c5a5390-d858-4642-91b3-f915a101191e" />
 
