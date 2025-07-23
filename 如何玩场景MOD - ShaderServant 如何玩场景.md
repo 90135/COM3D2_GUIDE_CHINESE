@@ -166,6 +166,8 @@ SceneCapture 插件 和 [MeidoPhotoStudio ](https://github.com/habeebweeb/MeidoP
 
 正常放置后就可以在官方摄影模式的背景列表里面看见了：
 
+不要在意我官摄的迷之翻译，知道是哪个按钮就行了。
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d8154a79-62dc-4c4b-b06f-9e567810027e" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec788bc9-a93a-49d8-bd3a-d1333977bd3c" />
