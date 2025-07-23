@@ -141,6 +141,8 @@ DCM 的这个功能非常强大，如果你懂你点 MOD，你可能知道 MOD �
 
 文件夹搜索 COM3D2.MaidLoader.dll 有就是装了。
 
+必须是 MaidLoader 才有自动追加功能，老款的 ModLoader 不行。
+
 <br>
 
 SceneCapture 插件 和 [MeidoPhotoStudio ](https://github.com/habeebweeb/MeidoPhotoStudio) 插件都支持此格式。
