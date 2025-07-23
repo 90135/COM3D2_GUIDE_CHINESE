@@ -180,9 +180,24 @@ asset_bg 的本质是一个 Unity assetBundel
 
 所以可以导入任何东西，对于一些小物件，可以放置到 PhotoBG_OBJ_NEI 文件夹内，和上面一样，具体 PhotoBG_NEI 文件夹在哪，有多少个不重要。
 
-放进 PhotoBG_OBJ_NEI 的 .asset_bg 会被追加到这里
+例如，[https://x.com/ykprsrm_game](https://x.com/ykprsrm_game) 制作的 [https://uu.getuploader.com/ykprsrm_cm3d2_mod/download/13](https://uu.getuploader.com/ykprsrm_cm3d2_mod/download/13)
+
+<br>
+
+有的作者会附带一个 .nei 文件，这个文件是定义好的列表，把这个带 .nei 的文件夹放进 PhotoBG_OBJ_NEI 文件夹即可。
+
+如果你不想用作者提供的列表也可以，一样的把带 .asset_bg 的文件夹放进 PhotoBG_OBJ_NEI 文件夹，然后把 .nei 移出去即可。
+
+<br>
+
+这个 MOD 内自己就有一个 PhotoBG_OBJ_NEI，所以不需要做特别的更改，直接放进 MOD 文件夹就好
+
+<img width="1752" height="404" alt="image" src="https://github.com/user-attachments/assets/f84a77f7-baeb-45b0-9ac9-5979ef1266ca" />
+
+放进 PhotoBG_OBJ_NEI 的 .asset_bg 或 .nei 会被追加到这里，因为作者提供了 .nei 可以看到是单独的列表（加到哪个列表取决于作者写的什么）
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc6b5d13-9569-49ea-9382-57d3217a0d83" />
+
 
 <br>
 <br>
@@ -200,7 +215,7 @@ asset_bg 的本质是一个 Unity assetBundel
 
 <img width="1776" height="882" alt="image" src="https://github.com/user-attachments/assets/eb0bc638-5356-4499-ac84-f1c27367885d" />
 
-有的作者会附带一个 .nei 文件，这个文件是定义好的场景列表，把这个带 .nei 的文件夹放进 PhotoBG_NEI 文件夹即可。
+有的作者会附带一个 .nei 文件，这个文件是定义好的列表，把这个带 .nei 的文件夹放进 PhotoBG_NEI 文件夹即可。
 
 如果你不想用作者提供的列表也可以，一样的把带 .asset_bg 的文件夹放进 PhotoBG_NEI 文件夹即可。
 
