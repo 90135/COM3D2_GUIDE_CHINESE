@@ -225,6 +225,27 @@ asset_bg 的本质是一个 Unity assetBundel
 <br>
 <br>
 <br>
+
+如果觉得用管摄控制不方便，也可以追加到 DanceCameraMotion 中
+
+点击信息输出后控制台会有当前背景的名字，不过一般就是文件名。
+
+<img width="1064" height="174" alt="image" src="https://github.com/user-attachments/assets/87979a79-68c3-4e28-b781-f722eb0510e4" />
+
+<img width="1064" height="174" alt="image" src="https://github.com/user-attachments/assets/4c5a5390-d858-4642-91b3-f915a101191e" />
+
+把背景名字填到 DCM 的 Background.xml 内就行了（DCM 更新的时候小心被覆盖）
+
+位置："COM3D2\Sybaris\UnityInjector\Config\DanceCameraMotion\Background.xml"
+
+<img width="1726" height="618" alt="image" src="https://github.com/user-attachments/assets/409ffd0d-cac1-4bd7-bd4b-38c867906f22" />
+
+
+
+
+<br>
+<br>
+<br>
 <br>
 <br>
 
