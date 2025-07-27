@@ -188,6 +188,8 @@ asset_bg 的本质是一个 Unity assetBundel
 
 有的作者会附带一个 .nei 文件，这个文件是定义好的列表，把这个带 .nei 的文件夹放进 PhotoBG_OBJ_NEI 文件夹即可。
 
+请注意：.nei 文件不能重名，否则将会互相覆盖。
+
 如果你不想用作者提供的列表也可以，一样的把带 .asset_bg 的文件夹放进 PhotoBG_OBJ_NEI 文件夹，然后把 .nei 移出去即可。
 
 <br>
