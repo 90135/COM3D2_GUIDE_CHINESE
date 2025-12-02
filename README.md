@@ -1,5 +1,9 @@
 # COM3D2_GUIDE_CHINESE
+
 90135 的 COM3D2 中文指北
+
+[![CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![GitBook](https://img.shields.io/static/v1?message=GitBook&logo=gitbook&logoColor=ffffff&label=%20&labelColor=5c5c5c&color=3F89A1)](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/com3d2_guide)
 
 
 ## 阅读地址
@@ -35,12 +39,11 @@
 
 ## 许可证
 
-<img width="200" height="100" alt="https://creativecommons.org/licenses/by-nc-sa/4.0/" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" />
-
+[![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 本仓库的文本内容采用 [知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png) 进行许可，特别注明除外。
 
-若您选择转载本站内容，则必须在文档开头等明显位置署名，署名必须包含标题、作者、被转载页面的网页链接，否则许可无效。
+若您选择转载本仓库内容，则必须在文档开头等明显位置署名，署名必须包含标题、作者、被转载页面的网页链接，否则许可无效。
 
 其他类型作品版权归原作者所有，如有作者授权则遵照授权协议使用。无作者授权协议情况下，以评论，报道为目的，遵照 Fair use（合理使用） 原则使用，并标注来源。
 
