@@ -33,7 +33,7 @@
  - [90135 的 COM3D2 中文指北](https://github.com/90135/COM3D2_GUIDE_CHINESE)
 
 
-# 许可证
+## 许可证
 
 <img width="200" height="100" alt="https://creativecommons.org/licenses/by-nc-sa/4.0/" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" />
 
