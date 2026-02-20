@@ -100,6 +100,7 @@ Revive 本来是让 HTC Vive 用户玩 Oculus 独占游戏的工具。但在这�
     *   Revive 有时需要 Oculus 的运行时库。如果启动黑屏，请下载 `LibOVRRT64_1.dll`。
     *   将该 DLL 文件放在游戏根目录，即 `COM3D2x64.exe` 的旁边。
     *   *注：如果你使用 VD，通常 VD 目录下也有这个文件，但为了保险建议手动放一个。*
+    *   要获取这个 dll，最安全的方法是下载 [Meta Horizon Link](https://www.meta.com/help/quest/1517439565442928/?srsltid=AfmBOoroeCRPuUKbhdKzLaMngnyclzt3WDnHSemSwFwXJSYDJdcEDgG1)，然后在安装目录里面搜索这个
     *   你可以用全局搜索工具 Eveyting 搜索电脑上有没有这个 dll，如果有就复制一个过来。
 
 ### 步骤二：创建启动脚本
@@ -125,8 +126,9 @@ exit
 
 ### 启动游戏
 
+本文不教一体机怎么串流，请自行搜索`你的型号+串流`。
 
-1. 确保你的头显已连接电脑，必须先连接才能开游戏。
+1. 确保你的头显已连接电脑（一体机也是启动串流软件并连接电脑），必须先连接才能开游戏。
 3. 双击运行刚才创建的 VR启动(Revive).bat。
 4. 游戏会拉起 SteamVR（你需要先安装这个）。
 5. 等待游戏启动。
