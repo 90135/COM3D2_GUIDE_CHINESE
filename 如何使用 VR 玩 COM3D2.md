@@ -101,9 +101,10 @@ Revive 本来是让 HTC Vive 用户玩 Oculus 独占游戏的工具。但在这�
 2.  **获取 DLL 文件** (如果遇到黑屏)：
     *   Revive 有时需要 Oculus 的运行时库。如果启动黑屏，请下载 `LibOVRRT64_1.dll`。
     *   将该 DLL 文件放在游戏根目录，即 `COM3D2x64.exe` 的旁边。
-    *   *注：如果你使用 VD，通常 VD 目录下也有这个文件，但为了保险建议手动放一个。*
-    *   要获取这个 dll，最安全的方法是下载 [Meta Horizon Link](https://www.meta.com/help/quest/1517439565442928/?srsltid=AfmBOoroeCRPuUKbhdKzLaMngnyclzt3WDnHSemSwFwXJSYDJdcEDgG1)，然后在安装目录里面搜索这个
+    *   要获取这个 dll，最安全的方法是下载 [Meta Horizon Link](https://www.meta.com/help/quest/1517439565442928)，然后在安装目录里面搜索这个（无需登录，安装好就行）
     *   你可以用全局搜索工具 Eveyting 搜索电脑上有没有这个 dll，如果有就复制一个过来。
+    *   我从 Meta Horizon Link 85.0.0.299.552 中提取了 LibOVRRT64_1.dll，如果你相信我可以从网盘下载：[https://mega.nz/folder/ZMFCxZyI#zAbSolRKys_HQ5OIxteUJg](https://mega.nz/folder/ZMFCxZyI#zAbSolRKys_HQ5OIxteUJg)
+    *   下载来路不明的 DLL 文件可能使您的电脑中毒！
 
 ### 步骤二：创建启动脚本
 
