@@ -144,7 +144,7 @@ exit
 - [vibeyourmaid](https://uu.getuploader.com/com3d2_mod_kyouyu_g/download/330) 作者：[ankokusamochi](https://x.com/ankokusamochi) 更好的 VR 操作，VR 手碰撞，等等
 - [kissyourmaid](https://uu.getuploader.com/com3d2_mod_kyouyu_g/download/329) 作者：[ankokusamochi](https://x.com/ankokusamochi) 可以和你的 maid 亲亲
 - [VoiceShortcutManager-Inory](https://github.com/InoryS/COM3D2.VoiceShortcutManager-Inory.Plugin) 作者：[ankokusamochi](https://x.com/ankokusamochi) 可以用语音操作换衣服、脱衣、形态键 等等
-- [GripMovePlugin v0.8.9.4](https://uu.getuploader.com/cm3d2_k/download/121) 必备，可以用抓握的形式移动，以及操作 IMGUI 插件（黑色半透明窗口那种）
+- [COM3D2_5.GripMovePlugin_0.8.9.4修正版](https://ux.getuploader.com/scarletkom_mod/download/45) 别看写着2.5，但是就是用这个版本 必备，可以用抓握的形式移动，以及操作 IMGUI 插件（黑色半透明窗口那种）
 
 ## 关于 CM3D2
 
