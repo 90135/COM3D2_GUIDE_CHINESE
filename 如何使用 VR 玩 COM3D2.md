@@ -137,6 +137,14 @@ exit
 5. 等待游戏启动。
 
 
+## 关于插件
+
+安装这些插件，可以让你的游戏在 VR 中更好用
+
+- [vibeyourmaid](https://uu.getuploader.com/com3d2_mod_kyouyu_g/download/330) [ankokusamochi](https://x.com/ankokusamochi) 更好的 VR 操作，VR 手碰撞，等等
+- [kissyourmaid](https://uu.getuploader.com/com3d2_mod_kyouyu_g/download/329) [ankokusamochi](https://x.com/ankokusamochi) 可以和你的 maid 亲亲
+- [VoiceShortcutManager-Inory](https://github.com/InoryS/COM3D2.VoiceShortcutManager-Inory.Plugin) [ankokusamochi](https://x.com/ankokusamochi) 可以用语音操作换衣服、脱衣、形态键 等等
+- [GripMovePlugin v0.8.9.4](https://uu.getuploader.com/cm3d2_k/download/9) 必备，可以用抓握的形式移动，以及操作 IMGUI 插件（黑色半透明窗口那种）
 
 ## 关于 CM3D2
 
