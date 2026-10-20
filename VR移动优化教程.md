@@ -12,6 +12,8 @@
 ## 1.VibeYourMaid插件移动教程
 [VibeYourMaid](https://uu.getuploader.com/com3d2_mod_kyouyu_g/download/330) 作者：[ankokusamochi](https://x.com/ankokusamochi)
 
+注意不要开着插件 UI，否则会很卡
+
 这个插件原本是实现在任何时候和女仆色色的插件，ankokusamochi 在原本的基础上，添加了很多VR里实用的功能
 
 <img width="1350" height="1090" alt="image" src="https://github.com/user-attachments/assets/3f570591-081e-4379-aa3b-8a98c6cc80be" />
