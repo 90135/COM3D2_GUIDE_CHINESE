@@ -26,6 +26,14 @@
 
 这个设置画面，有女仆在场时，会自动打开
 
+<br>
+
+GPT 生成的翻译版按键映射图片：
+
+<img width="1656" height="3200" alt="controller_manual_chinese" src="https://github.com/user-attachments/assets/586d95ea-97cd-41f5-8824-cae44b1c0b1d" />
+
+插件自带的按键映射原图：
+
 <img width="828" height="1600" alt="image" src="https://github.com/user-attachments/assets/2bfef7f1-bb68-4a64-8c32-290b803d6216" />
 
 
