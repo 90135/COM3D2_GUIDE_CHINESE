@@ -144,8 +144,11 @@ exit
 - [VibeYourMaid](https://uu.getuploader.com/com3d2_mod_kyouyu_g/download/330) 作者：[ankokusamochi](https://x.com/ankokusamochi) 必装，更好的 VR 操作（自由移动，上下，旋转等，跳舞时可锁定与女仆的位置等等），VR 手碰撞，更好的胸部碰撞，等等
 - [COM3D2_5.GripMovePlugin_0.8.9.4修正版](https://ux.getuploader.com/scarletkom_mod/download/45) 或者 [InoryS版](https://github.com/InoryS/COM3D2.GripMovePlugin.Plugin) 必装，别看写着2.5，但是就是用这个版本，可以用抓握的形式移动，转动视角，以及操作 IMGUI 插件（黑色半透明窗口那种）
 - [KissYourMaid](https://uu.getuploader.com/com3d2_mod_kyouyu_g/download/329) 作者：[ankokusamochi](https://x.com/ankokusamochi) 可以和你的 maid 亲亲
-- [VoiceShortcutManager-Inory](https://github.com/InoryS/COM3D2.VoiceShortcutManager-Inory.Plugin) 作者：[ankokusamochi](https://x.com/ankokusamochi) 可以用语音操作换衣服、脱衣、形态键 等等
+- [VoiceShortcutManager-Inory](https://github.com/InoryS/COM3D2.VoiceShortcutManager-Inory.Plugin) 作者：[ankokusamochi](https://x.com/ankokusamochi) 可以用语音操作换衣服、脱衣、形态键 等等，我强推这个插件
 - [SyncGripMoveGUI](https://github.com/InoryS/COM3D2.SyncGripMoveGUI.Plugin) GripMovePlugin 的配套，使用 GripMove 的 “旧GUI” 选项时时会引入桌面模式的指针，这个指针不能方便的隐藏，这个插件将 GripMove 的 “旧GUI” 开关与平板电脑的显示和隐藏同步。
+- [DisableVRHandModes](https://github.com/Pain-Brioche/COM3D2.DisableVRHandModes) 可以屏蔽掉 VR 中没有作用的摄像头手和震动棒手
+- [UndressUtil](https://github.com/Vin-meido/COM3D2.UndressUtil) 兼容 VR 的快捷脱衣菜单
+- [PropMyItem-IonryS](https://github.com/InoryS/COM3D2.PropMyItem.Plugin) 随时随地更衣加载预设，需要 GripMovePlugin 才能操作
 
 ## 关于 CM3D2
 
