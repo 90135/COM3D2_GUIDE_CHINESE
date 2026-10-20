@@ -141,7 +141,7 @@ exit
 
 安装这些插件，可以让你的游戏在 VR 中更好用
 
-- [VibeYourMaid](https://uu.getuploader.com/com3d2_mod_kyouyu_g/download/330) 作者：[ankokusamochi](https://x.com/ankokusamochi) 必装，更好的 VR 操作（自由移动，上下，旋转等，跳舞时可锁定与女仆的位置等等），VR 手碰撞，更好的胸部碰撞，等等
+- [VibeYourMaid](https://uu.getuploader.com/com3d2_mod_kyouyu_g/download/330) 作者：[ankokusamochi](https://x.com/ankokusamochi) 必装，更好的 VR 操作（自由移动，上下，旋转等，跳舞时可锁定与女仆的位置等等），VR 手碰撞，更好的胸部碰撞，等等，注意不要开着插件 UI，否则会很卡
 - [COM3D2_5.GripMovePlugin_0.8.9.4修正版](https://ux.getuploader.com/scarletkom_mod/download/45) 或者 [InoryS版](https://github.com/InoryS/COM3D2.GripMovePlugin.Plugin) 必装，别看写着2.5，但是就是用这个版本，可以用抓握的形式移动，转动视角，以及操作 IMGUI 插件（黑色半透明窗口那种）
 - [KissYourMaid](https://uu.getuploader.com/com3d2_mod_kyouyu_g/download/329) 作者：[ankokusamochi](https://x.com/ankokusamochi) 可以和你的 maid 亲亲
 - [VoiceShortcutManager-Inory](https://github.com/InoryS/COM3D2.VoiceShortcutManager-Inory.Plugin) 作者：[ankokusamochi](https://x.com/ankokusamochi) 可以用语音操作换衣服、脱衣、形态键 等等，我强推这个插件
