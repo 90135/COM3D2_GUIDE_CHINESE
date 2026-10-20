@@ -150,6 +150,9 @@ exit
 - [UndressUtil](https://github.com/Vin-meido/COM3D2.UndressUtil) 兼容 VR 的快捷脱衣菜单
 - [PropMyItem-IonryS](https://github.com/InoryS/COM3D2.PropMyItem.Plugin) 随时随地更衣加载预设，需要 GripMovePlugin 才能操作
 
+关于 VibeYourMaid 和 GripMovePlugin 移动更详细的说明可以看这里 [VR移动优化教程-github](https://github.com/90135/COM3D2_GUIDE_CHINESE/blob/main/VR%E7%A7%BB%E5%8A%A8%E4%BC%98%E5%8C%96%E6%95%99%E7%A8%8B.md) 或 [VR移动优化教程-gitbook](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/com3d2_guide/vr-yi-dong-you-hua-jiao-cheng)
+
+
 ## 关于 CM3D2
 
 CM3D2 需要转区才能启动，所以启动脚本略有不同
